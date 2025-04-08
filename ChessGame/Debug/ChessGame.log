@@ -1,0 +1,17 @@
+﻿  Bishop.cpp
+  Board.cpp
+C:\Users\Windows 10\Desktop\ChessGame\ChessGame\Board.cpp(120,58): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Windows 10\Desktop\ChessGame\ChessGame\Board.cpp(120,41): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Game.cpp
+C:\Users\Windows 10\Desktop\ChessGame\ChessGame\Game.cpp(38,75): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Windows 10\Desktop\ChessGame\ChessGame\Game.cpp(38,51): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  King.cpp
+  Knight.cpp
+  main.cpp
+  Pawn.cpp
+  Piece.cpp
+  Position.cpp
+  Queen.cpp
+  Rook.cpp
+  Generowanie kodu...
+  ChessGame.vcxproj -> C:\Users\Windows 10\Desktop\ChessGame\Debug\ChessGame.exe
